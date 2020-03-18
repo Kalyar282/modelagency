@@ -1,0 +1,14 @@
+@font-face{
+	font-family:"marck"; 
+	src:url('fonts/Marck_Script/MarckScript-Regular.ttf');
+}
+
+@font-face{
+	font-family:'markazi'; 
+	src:url('fonts/Markazi_Text/MarkaziText.ttf');
+}
+@font-face{
+	font-family:'tange'; 
+	src:url('fonts/Tangerine/Tangerine-Regular.ttf');
+}
+
